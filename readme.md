@@ -2,6 +2,10 @@
 
 KidsZoo, çocuklar için eğlenceli ve eğitici bir mobil uygulamadır. Hayvanlarla ilgili eşleştirme oyunu ve daha fazlasını içerir.
 
+
+### Oyananış
+![Oynanış](https://github.com/doguner1/GitImageData/blob/main/KidsZooApp/Ekran%20Kaydı%202024-05-27%2021.37.38.mov)
+
 ## Özellikler
 
 ### Giriş Ekranı (LoginPage.swift)
