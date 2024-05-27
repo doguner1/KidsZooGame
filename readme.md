@@ -6,6 +6,15 @@ KidsZoo, çocuklar için eğlenceli ve eğitici bir mobil uygulamadır. Hayvanla
 ### Oyananış
 ![Oynanış](https://github.com/doguner1/GitImageData/blob/main/KidsZooApp/Ekran%20Kaydı%202024-05-27%2021.37.38.mov)
 
+### Giriş Ekranı
+![Giriş Ekranı](https://github.com/doguner1/GitImageData/blob/main/KidsZooApp/Ekran%20Resmi%202024-05-27%2021.36.47.png?raw=true)
+
+### Kayıt Ekranı
+![Kayıt Ekranı](https://github.com/doguner1/GitImageData/blob/main/KidsZooApp/Ekran%20Resmi%202024-05-27%2021.36.28.png?raw=true)
+
+### Ana Ekran
+![Ana Ekran](https://github.com/doguner1/GitImageData/blob/main/KidsZooApp/Ekran%20Resmi%202024-05-27%2021.36.41.png?raw=true)
+
 ## Özellikler
 
 ### Giriş Ekranı (LoginPage.swift)
